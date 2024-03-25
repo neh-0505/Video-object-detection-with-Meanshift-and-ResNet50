@@ -15,6 +15,27 @@ algorithm. While meanshift tracking can be accurate for certain types of objects
 appearance or motion.
 
 OUTPUT:
-Masked video:
-https://github.com/neh-0505/Video-object-detection-with-Meanshift-and-ResNet50/assets/140535795/7f1900cd-8412-4678-909d-df7134063fca
+masked video:
+
+https://github.com/neh-0505/Video-object-detection-with-Meanshift-and-ResNet50/assets/140535795/35919baf-5bd9-4f6f-839a-4ac9a43c24c4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output of RESNET50 model detetcting white cars:
+
+https://github.com/neh-0505/Video-object-detection-with-Meanshift-and-ResNet50/assets/140535795/1f5675ef-78da-425e-b94c-b8faa60c58c0
 
