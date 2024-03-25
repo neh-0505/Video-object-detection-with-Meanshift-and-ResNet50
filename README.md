@@ -16,5 +16,5 @@ appearance or motion.
 
 OUTPUT:
 Masked video:
-https://github.com/neh-0505/Video-object-detection-with-Meanshift-and-ResNet50/assets/140535795/19974ec1-5a06-47ea-8f45-2f841b0b28a0
+https://github.com/neh-0505/Video-object-detection-with-Meanshift-and-ResNet50/assets/140535795/7f1900cd-8412-4678-909d-df7134063fca
 
