@@ -6,7 +6,11 @@ Algorithm with Pytorch (Deep Learning), Also implemented Kernelized Correlation 
 
 MEANSHIFT TRACKING
 
-Meanshift Tracking is a object tracking algorithm which works by iteratively shifting a window (or kernel) over the video data in such a way that it converges to the regions of maximum density or intensity. initially setup ROI calculating image histograms. and itirate the algorithm on ROI and track the objectMeanshift Tracking is a object tracking algorithm which works by iteratively shifting a window (or kernel) over the video data in  a way that it converges to the regions of maximsuchum density or intensity. initially setup ROI calculating image histograms. and itirate the algorithm on ROI and track the object
+Meanshift Tracking is a object tracking algo
+
+https://github.com/neh-0505/Video-object-detection-with-Meanshift-and-ResNet50/assets/140535795/2be2b716-177f-452e-b13c-77948bb71239
+
+rithm which works by iteratively shifting a window (or kernel) over the video data in such a way that it converges to the regions of maximum density or intensity. initially setup ROI calculating image histograms. and itirate the algorithm on ROI and track the objectMeanshift Tracking is a object tracking algorithm which works by iteratively shifting a window (or kernel) over the video data in  a way that it converges to the regions of maximsuchum density or intensity. initially setup ROI calculating image histograms. and itirate the algorithm on ROI and track the object
 Performance: Meanshift tracking is a traditional computer vision-based algorithm that performs object tracking by iteratively shifting a window in the image space to maximize the similarity
 between the target object and the candidate region. While meanshift tracking is effective in tracking objects with consistent appearance and motion, it may struggle with occlusions, abrupt changes in illumination, and complex backgrounds.
 Speed: Meanshift tracking is generally faster than deep learning-based object detection algorithms like ResNet50. It operates in real-time or near-real-time on most modern hardware and is suitable for applications that require real-time tracking of objects in video streams.
@@ -14,8 +18,9 @@ Accuracy: The accuracy of meanshift tracking depends on factors such as the size
 algorithm. While meanshift tracking can be accurate for certain types of objects and scenes, it may suffer from drift or loss of tracking if the target object undergoes significant changes in
 appearance or motion.
 
-OUTPUT VIDEO: 
-
+OUTPUT:
+Masked video: 
+https://github.com/neh-0505/Video-object-detection-with-Meanshift-and-ResNet50/assets/140535795/c2d5df7a-f9cc-45e4-8e5e-3cfa3f2ebccc
 
 
 RESNET50
